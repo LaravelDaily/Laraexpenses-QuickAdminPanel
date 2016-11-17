@@ -3,7 +3,7 @@
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 LaraExpenses is all generated with __QuickAdmin__ except for custom code for __Monthly Report__ functionality.
 
-![LaraExpenses screenshot](http://webcoderpro.com/laraexpenses-demo.png) // NEED TO ADD
+![LaraExpenses screenshot](http://webcoderpro.com/laraexpenses-demo.png)
 
 ## How to use
 
